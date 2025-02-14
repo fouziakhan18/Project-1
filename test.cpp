@@ -14,6 +14,7 @@ int search(int array[], int n, int x)
     }
     return -1; // Return -1 if element is not found
 }
+// we are testing git,commit 2
 
 int main()
 {
